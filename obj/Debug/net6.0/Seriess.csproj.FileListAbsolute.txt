@@ -1,0 +1,15 @@
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\bin\Debug\net6.0\Seriess.exe
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\bin\Debug\net6.0\Seriess.deps.json
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\bin\Debug\net6.0\Seriess.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\bin\Debug\net6.0\Seriess.dll
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\bin\Debug\net6.0\Seriess.pdb
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.dll
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\refint\Seriess.dll
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.pdb
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\Seriess.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\Dev\Csharp\Cursos DIO\Curso-Introducao\Seriess\obj\Debug\net6.0\ref\Seriess.dll
